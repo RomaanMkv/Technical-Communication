@@ -10,6 +10,11 @@ Before starting a game, ensure you have the necessary equipment:
 - **Badminton Court**: A rectangular area divided by a net.
 - **Net**: Positioned at a height of 1.55 meters (5.08 feet) in the center.
 - **Shoes**: Non-marking court shoes to prevent surface damage.
+  <p align="center">
+    <img src="images/Racket_and_shuttles.png" alt="Badminton Racket and Shuttles" width="500" />
+    <br>
+    <em>Badminton Racket and Shuttles</em>
+  </p>
 
 ## Step-by-Step Guide
 
@@ -23,6 +28,11 @@ Before starting a game, ensure you have the necessary equipment:
 Understanding [court](https://olympics.com/en/news/badminton-court-size-dimension-measurement-length-width-net-height-service-line) dimensions and layout is essential for positioning.
 - **Dimensions**: The court is 13.4 meters (44 feet) long. It’s 6.1 meters (20 feet) wide for singles and 7.1 meters (23 feet 4 inches) wide for doubles.
 - **Service Courts**: Each side is divided by a short service line (1.98 meters from the net) and a long service line (0.76 meters from the back boundary).
+  <p align="center">
+    <img src="images/badminton-court.png" alt="Badminton Court Layout" width="700" />
+    <br>
+    <em>Badminton Court Layout</em>
+  </p>
 
 ### Step 3: Serving
 [Serving](https://olympics.com/en/news/badminton-service-rules-sides-courts-singles-doubles-bwf) is the first move in every rally, and proper technique is key.
@@ -43,6 +53,11 @@ Mastering the [basic strokes](https://www.timminsbadminton.com/the-4-basic-strok
 - **Clear**: A high, deep shot, ideal for pushing the opponent to the back of the court.
 - **Drop Shot**: A soft shot that lands near the net, challenging your opponent’s agility.
 - **Smash**: An aggressive, fast overhead shot intended to score points quickly.
+  <p align="center">
+    <img src="images/basic_strokes.png" alt="Basic Strokes" width="600" />
+    <br>
+    <em>Basic Strokes</em>
+  </p>
 
 ### Step 6: Gameplay
 Understanding rally flow and fault rules is critical for competitive play.
